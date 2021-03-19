@@ -1,11 +1,22 @@
 .App {
   text-align: center;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+.card{
+  background-color: lightgray!important;
+  border-radius: 20px!important;
+  width: 270px;
+  margin-top: 180px;
+  margin-right: 20px;
+}
+.cardImg{
+  width: 260px;
+  height: 200px;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
